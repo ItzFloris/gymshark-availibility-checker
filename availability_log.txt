@@ -1,0 +1,304 @@
+ 2023-08-05 23:48:08,753 - INFO: Starting script! [Sending test notification]
+2023-08-05 23:48:10,030 - INFO: (23:48:10) T-Shirt size not available. Tried 0 times
+2023-08-05 23:48:25,236 - INFO: Starting script! [Sending test notification]
+2023-08-05 23:48:26,743 - INFO: (23:48:26) T-Shirt size not available. Tried 0 times
+2023-08-06 00:03:27,487 - INFO: (00:03:27) T-Shirt size not available. Tried 1 times
+2023-08-06 00:16:35,288 - INFO: (00:16:35) T-Shirt size not available. Tried 2 times
+2023-08-06 00:29:12,016 - INFO: (00:29:12) T-Shirt size not available. Tried 3 times
+2023-08-06 00:43:25,136 - INFO: (00:43:25) T-Shirt size not available. Tried 4 times
+2023-08-06 00:54:37,920 - INFO: (00:54:37) T-Shirt size not available. Tried 5 times
+2023-08-06 01:07:41,640 - INFO: (01:07:41) T-Shirt size not available. Tried 6 times
+2023-08-06 01:18:22,469 - INFO: (01:18:22) T-Shirt size not available. Tried 7 times
+2023-08-06 01:31:00,359 - INFO: (01:31:00) T-Shirt size not available. Tried 8 times
+2023-08-06 01:42:58,110 - INFO: (01:42:58) T-Shirt size not available. Tried 9 times
+2023-08-06 01:54:56,858 - INFO: (01:54:56) T-Shirt size not available. Tried 10 times
+2023-08-06 02:09:48,670 - INFO: (02:09:48) T-Shirt size not available. Tried 11 times
+2023-08-06 02:20:50,379 - INFO: (02:20:50) T-Shirt size not available. Tried 12 times
+2023-08-06 02:34:12,096 - INFO: (02:34:12) T-Shirt size not available. Tried 13 times
+2023-08-06 02:46:22,036 - INFO: (02:46:22) T-Shirt size not available. Tried 14 times
+2023-08-06 02:59:15,946 - INFO: (02:59:15) T-Shirt size not available. Tried 15 times
+2023-08-06 03:12:54,665 - INFO: (03:12:54) T-Shirt size not available. Tried 16 times
+2023-08-06 15:33:27,376 - INFO: Starting script! [Sending test notification]
+2023-08-06 15:33:28,318 - INFO: (15:33:28) T-Shirt size not available. Tried 0 times
+2023-08-06 15:45:52,072 - INFO: (15:45:52) T-Shirt size not available. Tried 1 times
+2023-08-06 15:58:45,767 - INFO: (15:58:45) T-Shirt size not available. Tried 2 times
+2023-08-06 16:12:34,572 - INFO: (16:12:34) T-Shirt size not available. Tried 3 times
+2023-08-06 16:23:41,319 - INFO: (16:23:41) T-Shirt size not available. Tried 4 times
+2023-08-06 16:37:11,988 - INFO: (16:37:11) T-Shirt size not available. Tried 5 times
+2023-08-06 16:51:49,609 - INFO: (16:51:49) T-Shirt size not available. Tried 6 times
+2023-08-06 17:06:17,400 - INFO: (17:06:17) T-Shirt size not available. Tried 7 times
+2023-08-06 17:20:03,549 - INFO: (17:20:03) T-Shirt size not available. Tried 8 times
+2023-08-06 17:34:49,262 - INFO: (17:34:49) T-Shirt size not available. Tried 9 times
+2023-08-06 17:48:26,042 - INFO: (17:48:26) T-Shirt size not available. Tried 10 times
+2023-08-06 18:01:35,714 - INFO: (18:01:35) T-Shirt size not available. Tried 11 times
+2023-08-06 18:13:36,450 - INFO: (18:13:36) T-Shirt size not available. Tried 12 times
+2023-08-06 18:25:17,309 - INFO: (18:25:17) T-Shirt size not available. Tried 13 times
+2023-08-06 18:38:38,235 - INFO: (18:38:38) T-Shirt size not available. Tried 14 times
+2023-08-06 18:50:28,045 - INFO: (18:50:28) T-Shirt size not available. Tried 15 times
+2023-08-06 19:04:25,038 - INFO: (19:04:25) T-Shirt size not available. Tried 16 times
+2023-08-06 19:17:54,895 - INFO: (19:17:54) T-Shirt size not available. Tried 17 times
+2023-08-06 19:28:17,686 - INFO: (19:28:17) T-Shirt size not available. Tried 18 times
+2023-08-06 19:41:33,417 - INFO: (19:41:33) T-Shirt size not available. Tried 19 times
+2023-08-06 19:54:06,273 - INFO: (19:54:06) T-Shirt size not available. Tried 20 times
+2023-08-06 20:06:25,091 - INFO: (20:06:25) T-Shirt size not available. Tried 21 times
+2023-08-06 20:20:44,850 - INFO: (20:20:44) T-Shirt size not available. Tried 22 times
+2023-08-06 20:34:15,556 - INFO: (20:34:15) T-Shirt size not available. Tried 23 times
+2023-08-06 20:47:21,333 - INFO: (20:47:21) T-Shirt size not available. Tried 24 times
+2023-08-06 20:59:22,122 - INFO: (20:59:22) T-Shirt size not available. Tried 25 times
+2023-08-06 21:10:34,944 - INFO: (21:10:34) T-Shirt size not available. Tried 26 times
+2023-08-06 21:22:52,964 - INFO: (21:22:52) T-Shirt size not available. Tried 27 times
+2023-08-06 21:33:19,684 - INFO: (21:33:19) T-Shirt size not available. Tried 28 times
+2023-08-06 21:44:50,497 - INFO: (21:44:50) T-Shirt size not available. Tried 29 times
+2023-08-06 21:56:45,245 - INFO: (21:56:45) T-Shirt size not available. Tried 30 times
+2023-08-06 22:09:47,036 - INFO: (22:09:47) T-Shirt size not available. Tried 31 times
+2023-08-06 22:21:17,842 - INFO: (22:21:17) T-Shirt size not available. Tried 32 times
+2023-08-06 22:35:16,540 - INFO: (22:35:16) T-Shirt size not available. Tried 33 times
+2023-08-06 22:46:56,384 - INFO: (22:46:56) T-Shirt size not available. Tried 34 times
+2023-08-06 22:57:09,341 - INFO: (22:57:09) T-Shirt size not available. Tried 35 times
+2023-08-06 23:09:56,074 - INFO: (23:09:56) T-Shirt size not available. Tried 36 times
+2023-08-06 23:21:16,872 - INFO: (23:21:16) T-Shirt size not available. Tried 37 times
+2023-08-06 23:33:26,954 - INFO: (23:33:26) T-Shirt size not available. Tried 38 times
+2023-08-06 23:43:30,606 - INFO: (23:43:30) T-Shirt size not available. Tried 39 times
+2023-08-06 23:54:41,566 - INFO: (23:54:41) T-Shirt size not available. Tried 40 times
+2023-08-07 00:05:28,234 - INFO: (00:05:28) T-Shirt size not available. Tried 41 times
+2023-08-07 00:16:03,095 - INFO: (00:16:03) T-Shirt size not available. Tried 42 times
+2023-08-07 00:27:51,766 - INFO: (00:27:51) T-Shirt size not available. Tried 43 times
+2023-08-07 00:41:43,480 - INFO: (00:41:43) T-Shirt size not available. Tried 44 times
+2023-08-07 00:54:55,291 - INFO: (00:54:55) T-Shirt size not available. Tried 45 times
+2023-08-07 01:08:49,006 - INFO: (01:08:49) T-Shirt size not available. Tried 46 times
+2023-08-07 01:22:16,952 - INFO: (01:22:16) T-Shirt size not available. Tried 47 times
+2023-08-07 01:35:44,168 - INFO: (01:35:44) T-Shirt size not available. Tried 48 times
+2023-08-07 01:49:47,854 - INFO: (01:49:47) T-Shirt size not available. Tried 49 times
+2023-08-07 02:00:52,961 - INFO: (02:00:52) T-Shirt size not available. Tried 50 times
+2023-08-07 02:11:41,727 - INFO: (02:11:41) T-Shirt size not available. Tried 51 times
+2023-08-07 02:24:11,647 - INFO: (02:24:11) T-Shirt size not available. Tried 52 times
+2023-08-07 02:39:10,421 - INFO: (02:39:10) T-Shirt size not available. Tried 53 times
+2023-08-07 02:53:44,253 - INFO: (02:53:44) T-Shirt size not available. Tried 54 times
+2023-08-07 03:07:32,167 - INFO: (03:07:32) T-Shirt size not available. Tried 55 times
+2023-08-07 03:20:02,933 - INFO: (03:20:02) T-Shirt size not available. Tried 56 times
+2023-08-07 03:32:20,834 - INFO: (03:32:20) T-Shirt size not available. Tried 57 times
+2023-08-07 03:46:54,623 - INFO: (03:46:54) T-Shirt size not available. Tried 58 times
+2023-08-07 04:01:53,506 - INFO: (04:01:53) T-Shirt size not available. Tried 59 times
+2023-08-07 15:38:11,792 - INFO: Starting script! [Sending test notification]
+2023-08-07 15:38:13,130 - INFO: (15:38:13) T-Shirt size not available. Tried 0 times
+2023-08-07 15:49:54,944 - INFO: (15:49:54) T-Shirt size not available. Tried 1 times
+2023-08-07 16:04:55,877 - INFO: (16:04:55) T-Shirt size not available. Tried 2 times
+2023-08-07 16:18:12,667 - INFO: (16:18:12) T-Shirt size not available. Tried 3 times
+2023-08-07 16:32:48,834 - INFO: (16:32:48) T-Shirt size not available. Tried 4 times
+2023-08-07 16:46:01,590 - INFO: (16:46:01) T-Shirt size not available. Tried 5 times
+2023-08-07 16:56:04,365 - INFO: (16:56:04) T-Shirt size not available. Tried 6 times
+2023-08-07 17:08:37,066 - INFO: (17:08:37) T-Shirt size not available. Tried 7 times
+2023-08-07 17:19:07,875 - INFO: (17:19:07) T-Shirt size not available. Tried 8 times
+2023-08-07 17:33:35,566 - INFO: (17:33:35) T-Shirt size not available. Tried 9 times
+2023-08-07 17:47:02,288 - INFO: (17:47:02) T-Shirt size not available. Tried 10 times
+2023-08-07 17:59:46,217 - INFO: (17:59:46) T-Shirt size not available. Tried 11 times
+2023-08-07 18:14:30,313 - INFO: (18:14:30) T-Shirt size not available. Tried 12 times
+2023-08-07 18:26:17,118 - INFO: (18:26:17) T-Shirt size not available. Tried 13 times
+2023-08-07 18:40:09,837 - INFO: (18:40:09) T-Shirt size not available. Tried 14 times
+2023-08-07 18:54:59,759 - INFO: (18:54:59) T-Shirt size not available. Tried 15 times
+2023-08-07 19:05:54,599 - INFO: (19:05:54) T-Shirt size not available. Tried 16 times
+2023-08-07 19:20:43,576 - INFO: (19:20:43) T-Shirt size not available. Tried 17 times
+2023-08-07 19:35:05,390 - INFO: (19:35:05) T-Shirt size not available. Tried 18 times
+2023-08-07 19:47:45,163 - INFO: (19:47:45) T-Shirt size not available. Tried 19 times
+2023-08-07 20:02:23,865 - INFO: (20:02:23) T-Shirt size not available. Tried 20 times
+2023-08-07 20:17:22,757 - INFO: (20:17:22) T-Shirt size not available. Tried 21 times
+2023-08-07 20:29:07,480 - INFO: (20:29:07) T-Shirt size not available. Tried 22 times
+2023-08-07 20:41:41,460 - INFO: (20:41:41) T-Shirt size not available. Tried 23 times
+2023-08-07 20:53:39,246 - INFO: (20:53:39) T-Shirt size not available. Tried 24 times
+2023-08-07 21:05:38,237 - INFO: (21:05:38) T-Shirt size not available. Tried 25 times
+2023-08-07 21:18:20,071 - INFO: (21:18:20) T-Shirt size not available. Tried 26 times
+2023-08-07 21:30:30,955 - INFO: (21:30:30) T-Shirt size not available. Tried 27 times
+2023-08-07 21:45:11,791 - INFO: (21:45:11) T-Shirt size not available. Tried 28 times
+2023-08-07 21:57:08,122 - INFO: (21:57:08) T-Shirt size not available. Tried 29 times
+2023-08-07 22:11:04,520 - INFO: (22:11:04) T-Shirt size not available. Tried 30 times
+2023-08-07 22:25:40,291 - INFO: (22:25:40) T-Shirt size not available. Tried 31 times
+2023-08-07 22:36:56,163 - INFO: (22:36:56) T-Shirt size not available. Tried 32 times
+2023-08-07 22:47:48,940 - INFO: (22:47:48) T-Shirt size not available. Tried 33 times
+2023-08-07 23:01:17,249 - INFO: (23:01:17) T-Shirt size not available. Tried 34 times
+2023-08-07 23:12:37,151 - INFO: (23:12:37) T-Shirt size not available. Tried 35 times
+2023-08-07 23:23:49,106 - INFO: (23:23:49) T-Shirt size not available. Tried 36 times
+2023-08-07 23:36:32,256 - INFO: (23:36:32) T-Shirt size not available. Tried 37 times
+2023-08-07 23:47:30,159 - INFO: (23:47:30) T-Shirt size not available. Tried 38 times
+2023-08-07 23:58:16,513 - INFO: (23:58:16) T-Shirt size not available. Tried 39 times
+2023-08-08 00:10:28,789 - INFO: (00:10:28) T-Shirt size not available. Tried 40 times
+2023-08-08 00:21:35,827 - INFO: (00:21:35) T-Shirt size not available. Tried 41 times
+2023-08-08 00:31:47,606 - INFO: (00:31:47) T-Shirt size not available. Tried 42 times
+2023-08-08 00:44:33,630 - INFO: (00:44:33) T-Shirt size not available. Tried 43 times
+2023-08-08 00:55:55,429 - INFO: (00:55:55) T-Shirt size not available. Tried 44 times
+2023-08-08 01:07:13,232 - INFO: (01:07:13) T-Shirt size not available. Tried 45 times
+2023-08-08 01:18:39,054 - INFO: (01:18:39) T-Shirt size not available. Tried 46 times
+2023-08-08 01:29:39,989 - INFO: (01:29:39) T-Shirt size not available. Tried 47 times
+2023-08-08 01:40:55,615 - INFO: (01:40:55) T-Shirt size not available. Tried 48 times
+2023-08-08 01:53:18,440 - INFO: (01:53:18) T-Shirt size not available. Tried 49 times
+2023-08-08 02:07:00,169 - INFO: (02:07:00) T-Shirt size not available. Tried 50 times
+2023-08-08 02:21:56,004 - INFO: (02:21:56) T-Shirt size not available. Tried 51 times
+2023-08-08 02:34:42,761 - INFO: (02:34:42) T-Shirt size not available. Tried 52 times
+2023-08-08 02:48:13,577 - INFO: (02:48:13) T-Shirt size not available. Tried 53 times
+2023-08-08 03:01:31,723 - INFO: (03:01:31) T-Shirt size not available. Tried 54 times
+2023-08-08 03:11:36,052 - INFO: (03:11:36) T-Shirt size not available. Tried 55 times
+2023-08-08 03:25:12,783 - INFO: (03:25:12) T-Shirt size not available. Tried 56 times
+2023-08-08 03:35:49,632 - INFO: (03:35:49) T-Shirt size not available. Tried 57 times
+2023-08-08 03:49:20,653 - INFO: (03:49:20) T-Shirt size not available. Tried 58 times
+2023-08-08 04:03:25,628 - INFO: (04:03:25) T-Shirt size not available. Tried 59 times
+2023-08-08 04:16:57,509 - INFO: (04:16:57) T-Shirt size not available. Tried 60 times
+2023-08-08 04:28:24,545 - INFO: (04:28:24) T-Shirt size not available. Tried 61 times
+2023-08-08 04:41:17,289 - INFO: (04:41:17) T-Shirt size not available. Tried 62 times
+2023-08-08 04:51:52,287 - INFO: (04:51:52) T-Shirt size not available. Tried 63 times
+2023-08-08 05:03:36,072 - INFO: (05:03:36) T-Shirt size not available. Tried 64 times
+2023-08-08 05:15:17,018 - INFO: (05:15:17) T-Shirt size not available. Tried 65 times
+2023-08-08 05:29:22,912 - INFO: (05:29:22) T-Shirt size not available. Tried 66 times
+2023-08-08 05:42:29,655 - INFO: (05:42:29) T-Shirt size not available. Tried 67 times
+2023-08-08 05:54:22,382 - INFO: (05:54:22) T-Shirt size not available. Tried 68 times
+2023-08-08 06:07:18,139 - INFO: (06:07:18) T-Shirt size not available. Tried 69 times
+2023-08-08 06:17:23,844 - INFO: (06:17:23) T-Shirt size not available. Tried 70 times
+2023-08-08 06:31:06,715 - INFO: (06:31:06) T-Shirt size not available. Tried 71 times
+2023-08-08 06:41:43,886 - INFO: (06:41:43) T-Shirt size not available. Tried 72 times
+2023-08-08 06:55:56,847 - INFO: (06:55:56) T-Shirt size not available. Tried 73 times
+2023-08-08 07:09:00,627 - INFO: (07:09:00) T-Shirt size not available. Tried 74 times
+2023-08-08 07:22:21,428 - INFO: (07:22:21) T-Shirt size not available. Tried 75 times
+2023-08-08 07:36:52,236 - INFO: (07:36:52) T-Shirt size not available. Tried 76 times
+2023-08-08 07:50:52,190 - INFO: (07:50:52) T-Shirt size not available. Tried 77 times
+2023-08-08 08:05:39,905 - INFO: (08:05:39) T-Shirt size not available. Tried 78 times
+2023-08-08 08:20:20,735 - INFO: (08:20:20) T-Shirt size not available. Tried 79 times
+2023-08-08 08:34:09,457 - INFO: (08:34:09) T-Shirt size not available. Tried 80 times
+2023-08-08 08:48:13,286 - INFO: (08:48:13) T-Shirt size not available. Tried 81 times
+2023-08-08 09:02:38,068 - INFO: (09:02:38) T-Shirt size not available. Tried 82 times
+2023-08-08 09:15:34,835 - INFO: (09:15:34) T-Shirt size not available. Tried 83 times
+2023-08-08 09:26:47,875 - INFO: (09:26:47) T-Shirt size not available. Tried 84 times
+2023-08-08 09:37:54,789 - INFO: (09:37:54) T-Shirt size not available. Tried 85 times
+2023-08-08 09:50:03,621 - INFO: (09:50:03) T-Shirt size not available. Tried 86 times
+2023-08-08 10:01:08,671 - INFO: (10:01:08) T-Shirt size not available. Tried 87 times
+2023-08-08 10:15:46,603 - INFO: (10:15:46) T-Shirt size not available. Tried 88 times
+2023-08-08 10:30:11,989 - INFO: (10:30:11) T-Shirt size not available. Tried 89 times
+2023-08-08 10:42:46,694 - INFO: (10:42:46) T-Shirt size not available. Tried 90 times
+2023-08-08 10:52:51,493 - INFO: (10:52:51) T-Shirt size not available. Tried 91 times
+2023-08-08 11:07:14,308 - INFO: (11:07:14) T-Shirt size not available. Tried 92 times
+2023-08-08 11:19:13,181 - INFO: (11:19:13) T-Shirt size not available. Tried 93 times
+2023-08-08 11:32:55,006 - INFO: (11:32:55) T-Shirt size not available. Tried 94 times
+2023-08-08 11:45:37,836 - INFO: (11:45:37) T-Shirt size not available. Tried 95 times
+2023-08-08 11:58:27,719 - INFO: (11:58:27) T-Shirt size not available. Tried 96 times
+2023-08-08 12:09:58,598 - INFO: (12:09:58) T-Shirt size not available. Tried 97 times
+2023-08-08 12:21:40,055 - INFO: (12:21:40) T-Shirt size not available. Tried 98 times
+2023-08-08 12:36:32,761 - INFO: (12:36:32) T-Shirt size not available. Tried 99 times
+2023-08-08 12:50:43,691 - INFO: (12:50:43) T-Shirt size not available. Tried 100 times
+2023-08-08 13:04:17,277 - INFO: (13:04:17) T-Shirt size not available. Tried 101 times
+2023-08-08 13:15:50,060 - INFO: (13:15:50) T-Shirt size not available. Tried 102 times
+2023-08-08 13:27:03,498 - INFO: (13:27:03) T-Shirt size not available. Tried 103 times
+2023-08-08 13:40:41,369 - INFO: (13:40:41) T-Shirt size not available. Tried 104 times
+2023-08-08 13:51:46,406 - INFO: (13:51:46) T-Shirt size not available. Tried 105 times
+2023-08-08 14:06:24,182 - INFO: (14:06:24) T-Shirt size not available. Tried 106 times
+2023-08-08 14:19:38,068 - INFO: (14:19:38) T-Shirt size not available. Tried 107 times
+2023-08-08 14:31:25,836 - INFO: (14:31:25) T-Shirt size not available. Tried 108 times
+2023-08-08 14:46:12,674 - INFO: (14:46:12) T-Shirt size not available. Tried 109 times
+2023-08-08 14:57:03,438 - INFO: (14:57:03) T-Shirt size not available. Tried 110 times
+2023-08-08 15:11:22,421 - INFO: (15:11:22) T-Shirt size not available. Tried 111 times
+2023-08-08 15:23:47,341 - INFO: (15:23:47) T-Shirt size not available. Tried 112 times
+2023-08-08 15:34:58,218 - INFO: (15:34:58) T-Shirt size not available. Tried 113 times
+2023-08-08 15:45:26,731 - INFO: (15:45:26) T-Shirt size not available. Tried 114 times
+2023-08-08 15:59:31,454 - INFO: (15:59:31) T-Shirt size not available. Tried 115 times
+2023-08-08 16:12:21,293 - INFO: (16:12:21) T-Shirt size not available. Tried 116 times
+2023-08-08 16:27:06,227 - INFO: (16:27:06) T-Shirt size not available. Tried 117 times
+2023-08-08 16:37:42,748 - INFO: Starting script! [Sending test notification]
+2023-08-08 16:37:43,849 - INFO: T-Shirt size not available. Tried 0 times
+2023-08-08 16:48:56,116 - INFO: T-Shirt size not available. Tried 1 times
+2023-08-08 17:01:24,886 - INFO: T-Shirt size not available. Tried 2 times
+2023-08-08 17:15:58,759 - INFO: T-Shirt size not available. Tried 3 times
+2023-08-08 17:29:46,515 - INFO: T-Shirt size not available. Tried 4 times
+2023-08-08 17:42:20,394 - INFO: T-Shirt size not available. Tried 5 times
+2023-08-08 17:52:42,448 - INFO: T-Shirt size not available. Tried 6 times
+2023-08-08 18:02:53,239 - INFO: T-Shirt size not available. Tried 7 times
+2023-08-08 18:15:29,029 - INFO: T-Shirt size not available. Tried 8 times
+2023-08-08 18:28:27,839 - INFO: T-Shirt size not available. Tried 9 times
+2023-08-08 18:41:43,674 - INFO: T-Shirt size not available. Tried 10 times
+2023-08-08 18:55:54,854 - INFO: T-Shirt size not available. Tried 11 times
+2023-08-08 19:05:58,458 - INFO: T-Shirt size not available. Tried 12 times
+2023-08-08 19:16:10,216 - INFO: T-Shirt size not available. Tried 13 times
+2023-08-08 19:27:49,078 - INFO: T-Shirt size not available. Tried 14 times
+2023-08-08 19:41:41,797 - INFO: T-Shirt size not available. Tried 15 times
+2023-08-08 19:53:08,755 - INFO: T-Shirt size not available. Tried 16 times
+2023-08-08 20:05:52,552 - INFO: T-Shirt size not available. Tried 17 times
+2023-08-08 20:18:00,482 - INFO: T-Shirt size not available. Tried 18 times
+2023-08-08 20:30:11,711 - INFO: T-Shirt size not available. Tried 19 times
+2023-08-08 20:43:08,591 - INFO: T-Shirt size not available. Tried 20 times
+2023-08-08 20:55:28,637 - INFO: T-Shirt size not available. Tried 21 times
+2023-08-08 21:05:47,436 - INFO: T-Shirt size not available. Tried 22 times
+2023-08-08 21:18:01,207 - INFO: T-Shirt size not available. Tried 23 times
+2023-08-08 21:29:30,075 - INFO: T-Shirt size not available. Tried 24 times
+2023-08-08 21:44:06,156 - INFO: T-Shirt size not available. Tried 25 times
+2023-08-08 21:56:45,934 - INFO: T-Shirt size not available. Tried 26 times
+2023-08-08 22:06:46,611 - INFO: T-Shirt size not available. Tried 27 times
+2023-08-08 22:17:29,298 - INFO: T-Shirt size not available. Tried 28 times
+2023-08-08 22:30:54,022 - INFO: T-Shirt size not available. Tried 29 times
+2023-08-08 22:41:11,380 - INFO: T-Shirt size not available. Tried 30 times
+2023-08-08 22:55:50,203 - INFO: T-Shirt size not available. Tried 31 times
+2023-08-08 23:08:53,073 - INFO: T-Shirt size not available. Tried 32 times
+2023-08-08 23:21:29,085 - INFO: T-Shirt size not available. Tried 33 times
+2023-08-08 23:32:28,777 - INFO: T-Shirt size not available. Tried 34 times
+2023-08-08 23:45:58,509 - INFO: T-Shirt size not available. Tried 35 times
+2023-08-08 23:57:03,275 - INFO: T-Shirt size not available. Tried 36 times
+2023-08-09 00:09:15,040 - INFO: T-Shirt size not available. Tried 37 times
+2023-08-09 00:20:57,675 - INFO: T-Shirt size not available. Tried 38 times
+2023-08-09 00:34:29,528 - INFO: T-Shirt size not available. Tried 39 times
+2023-08-09 00:44:36,296 - INFO: T-Shirt size not available. Tried 40 times
+2023-08-09 00:59:08,007 - INFO: T-Shirt size not available. Tried 41 times
+2023-08-09 01:14:08,042 - INFO: T-Shirt size not available. Tried 42 times
+2023-08-09 01:27:01,900 - INFO: T-Shirt size not available. Tried 43 times
+2023-08-09 01:41:59,988 - INFO: T-Shirt size not available. Tried 44 times
+2023-08-09 01:56:55,716 - INFO: T-Shirt size not available. Tried 45 times
+2023-08-09 02:09:22,439 - INFO: T-Shirt size not available. Tried 46 times
+2023-08-09 02:20:54,194 - INFO: T-Shirt size not available. Tried 47 times
+2023-08-09 02:34:31,923 - INFO: T-Shirt size not available. Tried 48 times
+2023-08-09 02:45:14,760 - INFO: T-Shirt size not available. Tried 49 times
+2023-08-09 03:00:03,454 - INFO: T-Shirt size not available. Tried 50 times
+2023-08-09 03:12:25,663 - INFO: T-Shirt size not available. Tried 51 times
+2023-08-09 03:22:28,397 - INFO: T-Shirt size not available. Tried 52 times
+2023-08-09 03:36:35,250 - INFO: T-Shirt size not available. Tried 53 times
+2023-08-09 03:49:02,989 - INFO: T-Shirt size not available. Tried 54 times
+2023-08-09 04:02:35,696 - INFO: T-Shirt size not available. Tried 55 times
+2023-08-09 04:13:46,379 - INFO: T-Shirt size not available. Tried 56 times
+2023-08-09 04:26:58,468 - INFO: T-Shirt size not available. Tried 57 times
+2023-08-09 04:40:07,176 - INFO: T-Shirt size not available. Tried 58 times
+2023-08-09 04:50:37,233 - INFO: T-Shirt size not available. Tried 59 times
+2023-08-09 05:05:25,936 - INFO: T-Shirt size not available. Tried 60 times
+2023-08-09 05:15:28,848 - INFO: T-Shirt size not available. Tried 61 times
+2023-08-09 05:29:20,526 - INFO: T-Shirt size not available. Tried 62 times
+2023-08-09 05:42:56,402 - INFO: T-Shirt size not available. Tried 63 times
+2023-08-09 05:55:49,048 - INFO: T-Shirt size not available. Tried 64 times
+2023-08-09 06:08:08,731 - INFO: T-Shirt size not available. Tried 65 times
+2023-08-09 06:21:16,539 - INFO: T-Shirt size not available. Tried 66 times
+2023-08-09 06:31:22,386 - INFO: T-Shirt size not available. Tried 67 times
+2023-08-09 06:42:09,093 - INFO: T-Shirt size not available. Tried 68 times
+2023-08-09 06:55:15,814 - INFO: T-Shirt size not available. Tried 69 times
+2023-08-09 07:06:07,747 - INFO: T-Shirt size not available. Tried 70 times
+2023-08-09 07:19:56,535 - INFO: T-Shirt size not available. Tried 71 times
+2023-08-09 07:30:31,248 - INFO: T-Shirt size not available. Tried 72 times
+2023-08-09 07:43:09,022 - INFO: T-Shirt size not available. Tried 73 times
+2023-08-09 07:55:37,740 - INFO: T-Shirt size not available. Tried 74 times
+2023-08-09 08:06:35,655 - INFO: T-Shirt size not available. Tried 75 times
+2023-08-09 08:21:09,377 - INFO: T-Shirt size not available. Tried 76 times
+2023-08-09 08:35:05,059 - INFO: T-Shirt size not available. Tried 77 times
+2023-08-09 08:46:49,789 - INFO: T-Shirt size not available. Tried 78 times
+2023-08-09 08:57:57,454 - INFO: T-Shirt size not available. Tried 79 times
+2023-08-09 09:09:07,151 - INFO: T-Shirt size not available. Tried 80 times
+2023-08-09 09:19:27,896 - INFO: T-Shirt size not available. Tried 81 times
+2023-08-09 09:32:39,827 - INFO: T-Shirt size not available. Tried 82 times
+2023-08-09 09:46:23,530 - INFO: T-Shirt size not available. Tried 83 times
+2023-08-09 09:58:12,283 - INFO: T-Shirt size not available. Tried 84 times
+2023-08-09 10:09:37,058 - INFO: T-Shirt size not available. Tried 85 times
+2023-08-09 10:21:30,735 - INFO: T-Shirt size not available. Tried 86 times
+2023-08-09 10:33:50,684 - INFO: T-Shirt size not available. Tried 87 times
+2023-08-09 10:46:57,585 - INFO: T-Shirt size not available. Tried 88 times
+2023-08-09 10:57:55,383 - INFO: T-Shirt size not available. Tried 89 times
+2023-08-09 11:10:55,086 - INFO: T-Shirt size not available. Tried 90 times
+2023-08-09 11:24:36,840 - INFO: T-Shirt size not available. Tried 91 times
+2023-08-09 11:36:17,539 - INFO: T-Shirt size not available. Tried 92 times
+2023-08-09 11:47:20,292 - INFO: T-Shirt size not available. Tried 93 times
+2023-08-09 12:01:48,007 - INFO: T-Shirt size not available. Tried 94 times
+2023-08-09 12:14:13,782 - INFO: T-Shirt size not available. Tried 95 times
+2023-08-09 12:26:22,487 - INFO: T-Shirt size not available. Tried 96 times
+2023-08-09 12:38:26,221 - INFO: T-Shirt size not available. Tried 97 times
+2023-08-09 12:52:02,953 - INFO: T-Shirt size 'L' is now available. Notification sent.
+2023-09-19 19:17:25,706 - INFO: Starting script! [Sending test notification]
+2023-09-19 19:17:27,136 - INFO: T-Shirt size not available. Tried 0 times
+2023-09-19 19:19:12,968 - INFO: Starting script! [Sending test notification]
+2023-09-19 19:19:13,535 - INFO: T-Shirt size not available. Tried 0 times
